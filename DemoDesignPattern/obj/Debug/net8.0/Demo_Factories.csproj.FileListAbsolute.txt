@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Demo_Factories.exe
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Demo_Factories.deps.json
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Demo_Factories.runtimeconfig.json
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Demo_Factories.dll
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Demo_Factories.pdb
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.dll
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\refint\Demo_Factories.dll
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.pdb
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Demo_Factories.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\ref\Demo_Factories.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Lab3_PRN212.exe
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Lab3_PRN212.deps.json
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Lab3_PRN212.runtimeconfig.json
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Lab3_PRN212.dll
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\bin\Debug\net8.0\Lab3_PRN212.pdb
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.dll
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\refint\Lab3_PRN212.dll
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.pdb
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\Lab3_PRN212.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\DemoDesignPattern\DemoDesignPattern\obj\Debug\net8.0\ref\Lab3_PRN212.dll
